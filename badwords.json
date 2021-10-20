@@ -1,3 +1,8 @@
-{
-  "badwords": "hello"
-}
+[
+  "basic": [
+    "kurva",
+    "buzi",
+    "fasz",
+    "geci"
+  ]
+]
